@@ -1,4 +1,4 @@
-name: Get latest patches release version
+name: Get latest commits
 on:
   schedule:
     - cron:  '25 */12 * * *'
