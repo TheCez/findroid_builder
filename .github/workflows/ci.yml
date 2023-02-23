@@ -2,8 +2,10 @@ name: Publish release APK
 
 # Controls when the action will run.
 on:
-#   # Triggers the workflow on push or pull request events but only for the master branch
-#   push:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches:
+      - main
 #     tags:
 #       - '*'
 
@@ -17,6 +19,8 @@ jobs:
     steps:
       - name: Checkout code for app release
         uses: actions/checkout@v3
+        with:
+          repository: 'jarnedemeulemeester/findroid'
       
       - name: Validate Gradle Wrapper
         uses: gradle/wrapper-validation-action@v1
