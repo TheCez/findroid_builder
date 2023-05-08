@@ -1,1 +1,1 @@
-chore(renovate): enable semantic commits
+fix: add okhttp proguard rules
