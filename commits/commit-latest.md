@@ -1,1 +1,3 @@
-fix: library fragment not navigating to collection (box set)
+fix: info text overlapping in movie and show fragments
+
+Closes: #358
