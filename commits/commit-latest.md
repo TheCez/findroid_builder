@@ -1,3 +1,5 @@
-fix: info text overlapping in movie and show fragments
+fix: amoled theme not taking M3 colors (#362)
 
-Closes: #358
+* fix: amoled theme not taking M3 colors
+
+* fix: ktlint issue in `JellyfinRepositoryOfflineImpl`
