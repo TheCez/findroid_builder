@@ -1,5 +1,1 @@
-fix: amoled theme not taking M3 colors (#362)
-
-* fix: amoled theme not taking M3 colors
-
-* fix: ktlint issue in `JellyfinRepositoryOfflineImpl`
+build: bump versionCode to 19 and versionName to 0.11.1
