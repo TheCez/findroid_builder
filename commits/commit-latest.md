@@ -1,1 +1,1 @@
-lint: newline at end of `CoreExtensions.kt`
+fix: spelling error in remove address dialog (#413)
