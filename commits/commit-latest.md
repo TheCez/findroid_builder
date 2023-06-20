@@ -1,1 +1,1 @@
-lint: run ktlintFormat
+chore: remove some unused files and dependencies
