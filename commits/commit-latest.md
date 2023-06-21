@@ -1,1 +1,1 @@
-chore: remove some unused files and dependencies
+fix: add `CollectionType` to proguard-rules.pro
