@@ -1,1 +1,1 @@
-fix: add `CollectionType` to proguard-rules.pro
+fix(room): use 1 instead of TRUE
