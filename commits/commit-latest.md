@@ -1,23 +1,88 @@
-refactor: use `WindowInsetsControllerCompat` instead of deprecated methods (#302)
+feat: picture-in-picture (#277)
 
-* refactor: remove deprecated methods to hide system ui
+* add pip
 
-* fix: action bar reappear after changing the brightness
+* fixed OnResume() OnStop()
+add picture in picture button
+add pip settings
 
-* lint: run ktlintFormat
+* fixed sourceRectHint
+add aspectRatio
 
-* refactor: remove sdk check
+* fix import
 
-* fix: system bars stay visible after closing dialog
+* improve hide playerControls
 
-* fix: add player theme to set navigationbar and statusbar colors to transparent
+* add onNewIntent()
 
-* fix: draw behind navigationbar and statusbar
+* Home button/gesture settings
 
-* refactor: remove swipeToShowStatusBars extensions
+* add summary
 
-Remove fix for status bar reappearing on LineageOS after changing brightness with gesture.
-This can always be added back when official Android version from manufacturers also need this fix.
+* add GESTURE_EXCLUSION_AREA_SIDE
+
+* remove if else in sourceRectHint
+fix onStop() behavior
+
+* fix behavior when using pip button, now go home
+
+* test
+
+* fix onStop()
+
+* fix: mpv aspect ratio
+
+* fix when in PiP mode and starting new playback
+
+* refactor: pip implementation
+
+Remove option to disable pip button, always show the button when pip is supported
+Remove the option to completely disable pip
+Format using ktlint
+
+* fix when in pip mode and play a new video
+
+* fix recent app behavior
+
+* lint
+
+* Some adjustments
+
+* fix: Aspect ratio is too extreme
+
+* fix: Activity recreation
+
+* fix merge issues
+
+* fix merge issues
+
+* ktlintFormat
+
+* Add Picture in Picture
+
+* fix
+
+* fix sourceRectHint, updateZoomMode before entering pip
+
+* lint
+
+* fix: disable pip when player is locked
+
+* lint
+
+* lint
+
+* fix: sourceRectHint
+
+* fix: replace media items in mpv
+
+* fix: don't show skip intro button in pip
+
+* chore: remove `android:resizeableActivity` from manifest since the default is already `true`
+
+* refactor: remove option to force 16:9 aspect ratio
+
+* refactor: update strings
 
 ---------
 
