@@ -1,7 +1,10 @@
-fix: episode indicator wrapping on second line (#468)
+chore(deps): update dependency gradle to v8.3 (#474)
 
-Fixes #445
+* chore(deps): update dependency gradle to v8.3
 
-The episode indicator background was constrained to a 24dp box. If this box could not contain the count, then the count would wrap onto a new line.
+* refactor: replace `buildDir` with `layout.buildDirectory`
 
-The proposed solution is to use a rounded rectangle as the background instead. This can then expand into a chip as needed to accommodate larger numbers without wrapping.
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
