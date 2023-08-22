@@ -1,10 +1,5 @@
-chore(deps): update dependency gradle to v8.3 (#474)
+feat: show episode size in extra info (#477)
 
-* chore(deps): update dependency gradle to v8.3
+* Show episode size if extra info is enabled
 
-* refactor: replace `buildDir` with `layout.buildDirectory`
-
----------
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
+* Remove unnecessary stuff
