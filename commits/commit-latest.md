@@ -1,3 +1,9 @@
-fix(deps): update dependency dev.jdtech.mpv:libmpv to v0.1.3 (#483)
+fix: pip (#481)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+* fix pip
+
+* refactor: make isPipSupported more readable
+
+---------
+
+Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
