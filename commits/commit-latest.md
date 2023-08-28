@@ -1,9 +1,1 @@
-fix: pip (#481)
-
-* fix pip
-
-* refactor: make isPipSupported more readable
-
----------
-
-Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
+build: bump versionCode to 21 and versionName to 0.13.0
