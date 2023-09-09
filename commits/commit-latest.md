@@ -1,17 +1,4 @@
-fix: snackbar not showing in landscape mode (#476)
+fix: do not recreate player activity on uiMode configuration change
 
-* Fix snackbar not showing in landscape
-
-This affected also all tablets since they use the landscape view!
-
-Added `setTextMaxLines` because for some reason the text is truncated on tablets.
-
-Fixes #473.
-
-Co-Authored-By: Jcuhfehl <91626737+Jcuhfehl@users.noreply.github.com>
-
-* Remove unused import
-
----------
-
-Co-authored-by: Jcuhfehl <91626737+Jcuhfehl@users.noreply.github.com>
+Fix #505
+Fix #510
