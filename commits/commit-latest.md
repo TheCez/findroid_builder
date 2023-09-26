@@ -1,3 +1,1 @@
-chore(deps): update dependency org.jlleitschuh.gradle.ktlint to v11.6.0 (#517)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+build: bump versionCode to 22 and versionName to 0.13.1
