@@ -1,1 +1,3 @@
-build: bump versionCode to 22 and versionName to 0.13.1
+Add Discord group badge in README (#533)
+
+For easier access
