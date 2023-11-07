@@ -1,3 +1,1 @@
-chore: run renovate weekly
-
-Closes #513
+chore(deps) update jellyfin to v1.4.5
