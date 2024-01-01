@@ -1,1 +1,3 @@
-feat(phone,exoplayer): allow audio track to be disabled
+feat(tv): allow audio and subtitle tracks to be disabled
+
+Closes #608
