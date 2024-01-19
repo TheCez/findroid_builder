@@ -1,3 +1,13 @@
-fix(deps): update compose.destinations to v1.9.62 (#616)
+docs: add badges to readme (#567)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+* Update README.md
+
+Add shields.io Badges
+
+* docs: reduce number of badges
+
+Reduce the number of badges to a more (in my opinion) useful set
+
+---------
+
+Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
