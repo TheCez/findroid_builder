@@ -1,13 +1,15 @@
-docs: add badges to readme (#567)
+feat: add long press for 2x speed (#596)
 
-* Update README.md
+* Add long press for 2x speed.
 
-Add shields.io Badges
+* Fix resource hard code warn.
 
-* docs: reduce number of badges
+* Fix lint warn.
 
-Reduce the number of badges to a more (in my opinion) useful set
+* refactor: use `player.setPlaybackSpeed`
+
+* refactor: make playback speed increase easily adjustable later
 
 ---------
 
-Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
+Co-authored-by: jarnedemeulemeester <jarnedemeulemeester@gmail.com>
