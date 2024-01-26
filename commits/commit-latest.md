@@ -1,1 +1,1 @@
-feat(mpv): default to `gpu-next` and `mediacodec` and use `fast` profile
+feat(mpv,tv): default to `gpu-next`
