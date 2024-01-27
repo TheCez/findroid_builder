@@ -1,1 +1,1 @@
-feat(mpv,tv): default to `gpu-next`
+fix(mpv): loading item immediately restarts the playback causing duplicate external subtitle entries
