@@ -1,1 +1,1 @@
-ci: update gradle setup action
+refactor: remove back button in locked controls
