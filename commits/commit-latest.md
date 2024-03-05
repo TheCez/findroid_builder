@@ -1,5 +1,3 @@
-fix(theme): set correct surface color when using dynamic colors or amoled theme
+fix(mpv): request audio focus
 
-Surface colors have changed in material components 1.11.0
-
-Closes #673
+Closes #536
