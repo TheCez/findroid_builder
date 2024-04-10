@@ -1,3 +1,7 @@
-fix(deps): update androidx.media3 to v1.3.1 (#699)
+feat: support html in media description (#713)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+* support HTML in media description
+
+* parse html in episode overview
+
+* do the same in season view
