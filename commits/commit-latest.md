@@ -1,1 +1,1 @@
-refactor: remove huawei flavor
+ci(fastlane): only build phone version
