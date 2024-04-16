@@ -1,1 +1,1 @@
-ci(fastlane): only build phone version
+ci(lint): migrate to `gradle/actions/wrapper-validation`
