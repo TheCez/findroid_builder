@@ -1,5 +1,17 @@
-fix: some languages are displayed incorrectly in the track selector
+feat: add login disclaimer support (#721)
 
-See https://github.com/androidx/media/blob/release/libraries/common/src/main/java/androidx/media3/common/util/Util.java additionalIsoLanguageReplacements for the list of languages being mapped. Seems like always taking the last part and feeding that to Locale works.
+* add login disclaimer support
 
-Closes #737
+* refactor: move disclaimer to `UiState.Normal`
+
+This makes more sense in the current architecture
+
+* feat: add login disclaimer to tv version
+
+* refactor: add margin to bottom of disclaimer
+
+* lint: add missing trailing comma
+
+---------
+
+Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
