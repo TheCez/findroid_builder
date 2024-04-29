@@ -1,17 +1,3 @@
-feat: add login disclaimer support (#721)
+fix(deps): update dependency org.jellyfin.media3:media3-ffmpeg-decoder to v1.3.1+2 (#740)
 
-* add login disclaimer support
-
-* refactor: move disclaimer to `UiState.Normal`
-
-This makes more sense in the current architecture
-
-* feat: add login disclaimer to tv version
-
-* refactor: add margin to bottom of disclaimer
-
-* lint: add missing trailing comma
-
----------
-
-Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
