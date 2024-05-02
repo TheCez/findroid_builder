@@ -1,3 +1,4 @@
-fix(deps): update dependency org.jellyfin.media3:media3-ffmpeg-decoder to v1.3.1+2 (#740)
+chore(deps): update androidx compose and core
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+compose 2024.04.01 -> 2024.05.00
+core 1.13.0 -> 1.13.1
