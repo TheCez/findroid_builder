@@ -1,4 +1,9 @@
-chore(deps): update androidx compose and core
+fix: sort tv shows by date played (#741)
 
-compose 2024.04.01 -> 2024.05.00
-core 1.13.0 -> 1.13.1
+* Fix wrong "Date Played" sort for TV shows
+
+* fix: change sortby dateplayed to seriesdateplayed right before retrieving items
+
+---------
+
+Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
