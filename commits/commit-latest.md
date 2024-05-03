@@ -1,9 +1,1 @@
-fix: sort tv shows by date played (#741)
-
-* Fix wrong "Date Played" sort for TV shows
-
-* fix: change sortby dateplayed to seriesdateplayed right before retrieving items
-
----------
-
-Co-authored-by: Jarne Demeulemeester <jarnedemeulemeester@gmail.com>
+chore: upgrade androidx tv material3 to 1.0.0-beta01
