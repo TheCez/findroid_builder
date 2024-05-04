@@ -1,1 +1,3 @@
-chore: upgrade androidx tv material3 to 1.0.0-beta01
+chore(deps): update material to 1.12.0
+
+material 1.11.0 -> 1.12.0
