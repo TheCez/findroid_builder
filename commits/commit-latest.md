@@ -1,3 +1,3 @@
-chore(deps): update material to 1.12.0
+chore(deps): update aboutlibraries to v11.1.4 (#742)
 
-material 1.11.0 -> 1.12.0
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
