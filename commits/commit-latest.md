@@ -1,1 +1,1 @@
-chore: clean up dependencies
+fix: enable core library desugaring
