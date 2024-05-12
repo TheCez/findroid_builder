@@ -1,1 +1,1 @@
-refactor: remove unused code
+refactor: remove delay when using mpv
