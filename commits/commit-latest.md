@@ -1,1 +1,1 @@
-refactor: remove delay when using mpv
+refactor: remove vtt fix
