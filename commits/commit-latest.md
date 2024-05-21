@@ -1,3 +1,3 @@
-fix: keep all classes in tv release build
+chore(deps): upgrade android gradle plugin to 8.4.1
 
-This fixes runtime errors
+agp 8.4.0 -> 8.4.1
